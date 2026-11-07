@@ -1,0 +1,27 @@
+{
+    "$schema": "https://inlang.com/schema/inlang-message-format",
+    "greenbox": "绿盒子",
+
+    "search": "搜索...",
+
+    "closeWindow": "关闭窗口",
+    "enterFullScreen": "进入全屏",
+    "exitFullScreen": "进入全屏",
+    "minimizeWindow": "最小化窗口",
+
+    "recruitment": "招聘管理",
+    "requests": "用工申请",
+    "applications": "求职申请",
+    "interviews": "面试管理",
+    "onboarding": "入职管理",
+    "employees": "员工管理",
+    "work": "考勤管理",
+    "leave": "请假管理",
+    "injury": "工伤管理",
+    "discipline": "纪律管理",
+    "notice": "通知管理",
+    "separation": "离职管理",
+    "clearance": "离职清算",
+    "payroll": "薪资管理",
+    "messaging": "短信通知"
+}

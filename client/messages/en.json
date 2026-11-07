@@ -1,0 +1,27 @@
+{
+    "$schema": "https://inlang.com/schema/inlang-message-format",
+    "greenbox": "GreenBox",
+
+    "search": "Search...",
+
+    "closeWindow": "Close Window",
+    "enterFullScreen": "Enter FullScreen",
+    "exitFullScreen": "ExitFullScreen",
+    "minimizeWindow": "Minimize Window",
+
+    "recruitment": "Recruitment",
+    "requests": "Requests",
+    "applications": "Applications",
+    "interviews": "Interviews",
+    "onboarding": "Onboarding",
+    "employees": "Employees",
+    "work": "Work",
+    "leave": "Leave",
+    "injury": "Injury",
+    "discipline": "Discipline",
+    "notice": "Notice",
+    "separation": "Separation",
+    "clearance": "Clearance",
+    "payroll": "Payroll",
+    "messaging": "Messaging"
+}
